@@ -1,0 +1,666 @@
+@media only screen and (max-width:1300px){
+    .top-bar .top-bar-wraper .top-bar-actions .get-button{
+        padding: 14px 23px;}
+    .testimonial .testimonial-wraper{
+        width: 100%;
+    }
+    .space{
+        padding: 0px 20px;
+    }
+    .certification .certificate-wraper .footer-columns .footer-column .footer-item-list .footer-item .footer-item-link{
+        font-size: 14px;
+    }
+    .it-support{
+        background: #E0F6FF;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-title{
+        font-size: 42px;
+    }
+    .testimonial .testimonial-wraper .row{
+        margin-right: 0;
+        width: 90%;
+    }
+    .banner .banner-wraper .banner-content .banner-heading h1 {
+        font-size: 75px;
+        line-height: 90px;
+    }
+    .banner .banner-wraper .banner-content .banner-desc p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .banner .banner-wraper .banner-content .sub-title {
+        font-size: 26px;
+    }
+    .banner .banner-wraper .trade {
+        max-width: 250px;
+        height: 100px;
+    }
+    .banner .banner-wraper .trade-text{
+        font-size: 20px;
+        line-height: 18px;
+    }
+    .banner .banner-wraper .trade-img{
+        width: 70px;
+    }
+    .banner .banner-wraper .idea-bulb {
+        max-width: 130px;
+        height: 130px;
+    }
+    .banner .banner-wraper .idea-bulb .bulb-img {
+        width: 70px;
+        height: 70px;
+    }
+    .banner .banner-wraper .idea-bulb .bulb-text{
+        font-size: 22px;
+    }
+    .navigation .navigation-wraper .top-bar-actions .language .dropdown .dropdown-menu label{
+        display: none;
+    }
+    .banner .banner-wraper .banner-content{
+        width: 100%;
+        padding: 0px 20px;
+    }
+}
+@media only screen and (max-width:1199px){
+    .top-bar .top-bar-wraper .top-bar-actions .get-button{
+        display: none; 
+    }
+    .top-bar .top-bar-wraper .top-bar-actions .search-bar input{
+        width: 255px;
+    }
+    .top-bar .top-bar-wraper .top-bar-content, .top-bar .top-bar-wraper .top-bar-actions{
+        width: 50%;
+    }
+    .top-bar .top-bar-wraper .top-bar-actions .language .dropdown .dropdown-toggle label{
+        display: none;
+    }
+  
+    .choose-brandcrock .choose-wraper{
+        width: 100%;
+        padding: 100px 0px;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-title{
+        font-size: 40px;
+        line-height: 56px;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-desc p{
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+   
+    .it-support .it-support-wraper .it-suport-content .it-suport-title{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .it-support .it-support-wraper .it-suport-content .it-suport-button{
+        margin: 30px 0px;
+    }
+    .it-support .it-support-wraper .it-bg-row{
+        border-radius: 0;
+    }
+    .consultation .consultation-wraper .consultation-info .info-image-wraper{
+        width: 450px;
+    }
+    .consultation .consultation-wraper .consultant-contact .consultant-number{
+        font-size: 30px;
+    }
+    .question .question-wrapper .accordion-image-wraper {
+        width: 325px;
+        height: 550px;
+    }
+    .footer-top .footer-top-wraper .footer-top_detail .footer-top_detail_button{
+        max-width: 150px;
+    }
+    .footer-top .footer-top-wraper .footer-top_detail .footer-top_detail_button{
+        width: 145px;
+        min-width: 145px;
+    }
+    .certification .certificate-wraper .company-detail{
+        width: 500px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 25px;
+    }
+    .space{
+        padding: 0;
+    }
+    .certification .certificate-wraper .certificate-content{
+        padding: 0px 12px;
+    }
+    .testimonial .testimonial-wraper .row, .choose-brandcrock .choose-wraper .choose-row{
+        width: 100%;
+        margin: 0;
+    }
+    .navigation, .top-bar{
+        padding: 0px 14px;
+    }
+    .banner .banner-wraper .banner-content .sub-title{
+        font-size: 30px;
+    }
+  
+    .banner .banner-wraper .banner-content .banner-desc p{
+        font-size: 20px;
+    }
+    .project-detail .project-detail-wraper .project-detail-box .project-count{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .banner .banner-wraper .banner-content{
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .it-support{
+        border-radius: 0;
+    }
+    .achievement .achievement-wraper .award-content .award-title{
+        font-size: 28px;
+        line-height: 36px;
+        width: 75%;
+    }
+    .achievement .achievement-wraper .achivement-content .achivement-title{
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .achievement .achievement-wraper .award-content .award-image-wraper{
+        width: 250px;
+        height: 250px;
+    }
+
+}
+@media only screen and (max-width:991px){
+    .top-bar{
+        display: none;
+    }
+    .navigation .navigation-wraper .logo .image-block{
+        display: none;
+    }
+    header{
+        position: relative;
+        top: 0;
+    }
+    .navigation{
+        background-color: #3C3C3C;
+    }
+    .banner{
+        margin: 0;
+        
+    }
+    .space{
+        padding: 0;
+    }
+    .navigation .navigation-wraper .top-bar-actions .search-bar input{
+        width: 250px;
+    }
+    .navigation .navigation-wraper{
+        margin: 0;
+        padding: 15px 12px;
+    }
+    .navigation-nav .navbar .navbar-toggler i{
+        color: #FFFFFF;
+    }
+    .banner .banner-wraper .banner-content{
+        transform: none;
+        width: 100%;
+    }
+  
+    .achievement .achievement-wraper .achievement-image-wraper{
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .achievement .achievement-wraper .achievement-title{
+        text-align: center;
+    }
+    .choose-brandcrock .choose-wraper .first-column .choose-content{
+        width: 340px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-button{
+        margin: 0 auto;
+    }
+    .project-detail .project-detail-wraper .project-row{
+        position: relative;
+        bottom: 0;
+    }
+    .project-detail .project-detail-wraper .project-detail-box{
+        margin-bottom: 20px;
+    }
+    .project-detail .project-detail-wraper{
+        padding-bottom: 100px;
+    }
+    .project-detail .project-detail-wraper .project-top-content{
+        margin-bottom: 20px;
+    }
+    .project-detail .project-detail-wraper .project-top-content .project-top-title{
+        width: 80%;
+    }
+    .it-support .it-support-wraper .it-suport-content .it-suport-title{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .it-support .it-support-wraper .it-suport-content .it-suport-button{
+        margin: 30px 0px;
+    }
+    .it-support .it-support-wraper .it-bg-row{
+        flex-direction: column-reverse;
+        padding: 80px 0px;
+    }
+    .it-support .it-support-wraper .it-suport-content .it-suport-services{
+        margin-bottom: 24px;
+    }
+    .question .question-wrapper .accordion-image-wraper{
+        display: none;
+    }
+    .footer-top .footer-top-wraper .footer-top_detail{
+        margin-top: 20px;
+    }
+    .certification .certificate-wraper .footer-columns .footer-column-heading{
+        margin-top: 45px;
+    }
+   
+    .it-support .it-support-wraper{
+        margin-top: 140px;
+        padding: 0;
+    }
+    .consultation{
+        padding: 80px 0px;
+        padding-top: 0;
+    }
+    .testimonial .testimonial-wraper{
+        padding: 85px 0px;
+    }
+    .grid .grid-wraper{
+        padding: 85px 0px;
+    }
+    .partners .partner-wraper{
+        padding: 85px 0px;
+    }
+    .blog .blog-wraper{
+        margin-top: 85px;
+    }
+    .client .client-wraper{
+        padding: 45px 0px;
+    }
+    .footer-top .footer-top-wraper{
+        padding: 55px 0px;
+    }
+    .certification .certificate-wraper{
+        padding-top: 85px;
+        padding-bottom: 50px;
+    }
+    .certification .certificate-wraper .footer-columns{
+        margin: 30px 0px;
+    }
+    .navigation .navigation-wraper .top-bar-actions .language .dropdown .dropdown-toggle label{
+        display: none;
+    }
+    .banner .banner-wraper .idea-bulb{
+        top: 14px;
+        right: 0;
+        left: 14px;
+        bottom: 0;
+        width: 100px;
+        height: 100px;
+    }
+    .banner .banner-wraper .idea-bulb .bulb-img{
+        width: 50px;
+        height: 50px;
+    }
+    .banner .banner-wraper .trade{
+    top: 14px;
+    right: 14px;
+    width: 250px;
+    height: 100px;
+   }
+   .banner .banner-wraper .trade-img{
+    width: 90px;
+    height: 75px;
+   }
+   .banner .banner-wraper .trade-text, .banner .banner-wraper .idea-bulb .bulb-text{
+    font-size: 20px;
+   }
+   .navigation, .top-bar{
+    padding: 0px;
+    }
+ 
+    .banner .banner-wraper .banner-content .banner-desc p{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .banner{
+        background-image: none;
+        background-color: #E0F6FF;
+    }
+    .project-detail .project-detail-wraper .project-top-content .project-top-title{
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .banner .banner-wraper .banner-content .sub-title {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .banner .banner-wraper .banner-content .banner-heading h1{
+        font-size: 55px;
+        line-height: 60px;
+    }
+    .banner .banner-wraper .banner-content .banner-desc p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .banner .banner-wraper .row .banner-text{
+       
+        margin-bottom: 60px;
+    }
+    .banner .banner-wraper .idea-bulb, .banner .banner-wraper .trade{
+        display: none;
+    }
+    .banner .banner-wraper{
+        padding-bottom: 0;
+    }
+    .project-detail .project-detail-wraper .project-detail-box .project-count{
+        font-size: 36px;
+        line-height: 42px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .project-detail .project-detail-wraper .project-detail-box .project-descruption{
+        font-size: 16px;
+    }
+    .grid .grid-wraper .box-1 .success-title{
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .achievement .achievement-wraper .achivement-content{
+        margin: 0 auto;
+    }
+    .achievement .achievement-wraper .award-content .award-title{
+        width: 30%;
+    }
+}
+@media only screen and (max-width:767px){
+    .navigation .navigation-wraper .navigation-nav{
+        width: 100%;
+        justify-content: space-between;
+        margin-top: 16px;
+    }
+    .navigation .navigation-wraper .logo{
+        margin: 0 auto;
+    }
+    .navigation .navigation-wraper .top-bar-actions .language .dropdown .dropdown-toggle label{
+        display: none;
+    }
+    .banner .banner-wraper .banner-content .sub-title{
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .banner .banner-wraper .banner-content .banner-heading h1{
+        font-size: 75px;
+        line-height: 80px;
+    }
+    .banner .banner-wraper .banner-content .banner-desc p{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .achievement .achievement-wraper .achievement-title{
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .choose-brandcrock .choose-wraper .content{
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .partners .partner-wraper .partner-content{
+        margin-bottom: 20px;
+    }
+    .footer-bottom .footer-bottom-wraper .footer-bottom-left .footer-bottom-list{
+        justify-content: center;
+        margin-bottom: 20px;
+        gap: 22px;
+        flex-wrap: wrap;
+    }
+    .footer-bottom .footer-bottom-wraper .footer-bottom-right .footer-bottom-right-text{
+        text-align: center;
+    }
+    .choose-brandcrock .choose-wraper{
+        padding: 80px 0px;
+    }
+    .project-detail .project-detail-wraper{
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+    .certification .certificate-wraper .company-detail{
+        display: inline-block;
+        width: 40%;
+    }
+    .banner .banner-wraper .trade, .banner .banner-wraper .idea-bulb{
+        width: 100px;
+        height: 100px;
+    }
+    .banner .banner-wraper .trade .trade-text{
+        display: none;
+    }
+    .banner .banner-wraper .idea-bulb .bulb-img{
+        width: 50px;
+        height: 50px;
+    }
+    .banner .banner-wraper .idea-bulb .bulb-text{
+        font-size: 18px;
+    }
+    .banner .banner-wraper .trade-img{
+        width: 60px;
+        height: 60px;
+    }
+    .banner .banner-wraper .row{
+        flex-direction: column-reverse;
+    }
+    .banner .banner-wraper .banner-content{
+        text-align: center;
+        margin-top: 50px;
+    }
+    .banner .banner-wraper .banner-content .banner-button{
+        margin: 0 auto;
+    }
+    .grid .grid-wraper .box-1 .success-title{
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .achievement .achievement-wraper .award-content .award-title{
+        width: 85%;
+    }
+ 
+}
+@media only screen and (max-width:576px){
+    .navigation .navigation-wraper .top-bar-actions .search-bar input{
+        display: none;
+    }
+    .navigation .navigation-wraper .top-bar-actions .search-bar .search-icon{
+        position: relative;
+        top: 0;
+        right: 0;
+    }
+    .banner .banner-wraper .banner-content .sub-title{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .banner .banner-wraper .banner-content .banner-heading h1{
+        font-size: 56px;
+        line-height: 60px;
+    }
+    .banner .banner-wraper .banner-content .banner-desc p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .achievement .achievement-wraper .achievement-image-wraper{
+        width: 120px;
+        height: 165px;
+    }
+    .achievement .achievement-wraper .award-content .award-title{
+        font-size: 28px;
+        line-height: 34px;
+        width: 100%;
+    }
+    .achievement .achievement-wraper .achivement-content .achivement-title{
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .choose-brandcrock .choose-wraper .first-column .choose-content{
+        width: 100%;
+        text-align: center;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-button{
+        margin: 0 auto;
+    }
+    .choose-brandcrock .choose-wraper .content{
+        width: 100%;
+        text-align: center;
+    }
+    .choose-brandcrock .choose-wraper .content .image-wraper{
+        margin: 0 auto;
+    }
+    .choose-brandcrock .choose-wraper .choose-content .choose-title{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .project-detail .project-detail-wraper .project-top-content .project-top-title{
+        width: 98%;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .project-detail .project-detail-wraper .project-top-content .project-top-button{
+        margin-top: 10px;
+    }
+   
+    .it-support .it-support-wraper .content{
+        text-align: center;
+    }
+    .it-support .it-support-wraper .content .image-wraper{
+        margin: 0 auto;
+    }
+    .consultation .consultation-wraper .consultation-info .info-image-wraper img{
+        display: none;    
+    }
+    .consultation .consultation-wraper .consultant-contact{
+        bottom: 0;
+        position: relative;
+        left: 0;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .consultation .consultation-wraper .consultation-info .info-image-wraper{
+        width: auto;
+        height: auto;
+    }
+
+    .consultation .consultation-wraper{
+        padding: 30px 25px;
+    }
+    .consultation .consultation-wraper .form-title{
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .consultation .consultation-wraper .consultant-contact{
+        padding: 70px 50px;
+    }
+   
+    .consultation .consultation-wraper .consultant-contact .consultant-icon{
+        font-size: 28px;
+    }
+    .consultation .consultation-wraper .consultant-contact .consultant-icon .fa-comment-dots{
+        font-size: 20px;
+    }
+    .testimonial .testimonial-wraper .testimonial-content .testimonial-title{
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .grid .grid-wraper .box-1 .success-title{
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .grid .grid-wraper .box-1 .success-title .success-button{
+        text-align: center;
+    }
+    .grid .grid-wraper .box-1 .success-button .success-button-link{
+        width: 180px;
+        margin-bottom: 10px;
+    }
+    .grid .grid-wraper .box-1{
+        padding: 20px 25px;
+    }
+    .partners .partner-wraper .partner-title{
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .question .question-wrapper .question-title h3{
+        font-size: 30px;
+    }
+    .blog .blog-wraper .blog-heading h6{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .footer-top .footer-top-wraper .footer-top-content .footer-top-title{
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+    }
+    .footer-top .footer-top-wraper .footer-top_detail{
+        justify-content: center;
+    }
+    .footer-top .footer-top-wraper .footer-top-content .footer-top-title .title-text{
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .certification .certificate-wraper .certificate-title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .certification .certificate-wraper .company-detail{
+        width: 100%;
+    }
+    .navigation .navigation-wraper .top-bar-actions .language .dropdown .dropdown-menu{
+        transform: translate3d(73px, 50px, 0px) !important;
+    }
+    .project-detail .project-detail-wraper .project-detail-box {
+        margin: 0 auto 20px auto;
+        width: 360px;
+    }
+    .footer-bottom .footer-bottom-wraper .footer-bottom-left .footer-bottom-list .bottom-list-item{
+        padding: 0;
+    }
+    .blog .blog-wraper .blog-slider .blog-item .post-carousel-content .post-image-bg{
+        box-shadow: none;
+    }
+    .achievement .achievement-wraper .award-content .award-image-wraper {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 30px;
+    }
+}
+@media only screen and (max-width:480px){
+    .consultation .consultation-wraper .consultant-contact{
+        padding: 28px 18px;
+    }
+    .consultation .consultation-wraper .consultant-contact .consultant-number{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .consultation .consultation-wraper .consultant-contact .consultant-title{
+        font-size: 16px;
+        padding: 6px 0px;
+    }
+    .it-support .space{
+        padding: 0;
+    }
+    .project-detail .project-detail-wraper .project-detail-box {
+        width: 100%;
+        margin: 0 auto 20px auto;
+    }
+    .grid .grid-wraper .box-1 .success-button{
+        text-align: center;
+    }
+
+}
